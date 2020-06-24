@@ -1,0 +1,108 @@
+body {
+    background-color: rgb(24, 22, 22);
+}
+
+#transparent-bar {
+    background-color: #423d3d;
+    width: 100%;
+    height: 50px;
+}
+
+#bar1 {
+    background-color: white;
+    margin-top: -28px;
+    margin-left: 30px;
+    width: 15px;
+    height: 3px;
+}
+
+#bar2 {
+    background-color: white;
+    margin-top: 2px;
+    margin-left: 30px;
+    width: 15px;
+    height: 3px;
+}
+
+#bar3 {
+    background-color: white;
+    margin-top: 2px;
+    margin-left: 30px;
+    width: 15px;
+    height: 3px;
+}
+
+#red-square {
+    position: relative;
+    width: 25px;
+    height: auto;
+    margin-left: 75px;
+    top: -18px;
+}
+
+#youtube-text {
+    font-family: Roboto, Arial, sans-serif;
+    color: white;
+    margin-top: -44px;
+    margin-left: 102px;
+}
+
+#search-box {
+    position: relative;
+    resize: none;
+    height: 30px;
+    background-color: black;
+    color: gray;
+    margin-left: 370px;
+    top: -45px;
+    border: thin;
+}
+
+#glass-box {
+    position: relative;
+    background-color: rgb(105, 101, 101);
+    width: 45px;
+    height: 30px;
+    margin-left: 890px;
+    margin-top: -76px;
+}
+
+#magnifying-glass {
+    position: relative;
+    width: 20px;
+    height: auto;
+    top: -25px;
+    margin-left: 903px;
+}
+
+#create {
+    position: relative;
+    width: 25px;
+    height: auto;
+    margin-left: 1205px;
+    top: -50px;
+}
+
+#apps {
+    position: relative;
+    width: 28px;
+    height: auto;
+    margin-left: 1260px;
+    top: -80px;
+}
+
+#notifications {
+    position: relative;
+    width: 30px;
+    height: auto;
+    margin-left: 20px;
+    top: -80px;
+}
+
+#profile {
+    position: relative;
+    width: 35px;
+    height: auto;
+    margin-left: 15px;
+    top: -80px;
+}
