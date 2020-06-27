@@ -116,7 +116,7 @@ body {
     color: white;
     text-align: right;
     margin-top: -530px;
-    margin-right: 350px;
+    margin-right: 335px;
 }
 
 #autoplay {
@@ -188,4 +188,170 @@ body {
 
 #thumbnails {
     margin-left: 1010px;
+}
+
+h5 {
+    position: relative;
+    text-align: center;
+    color: white;
+    right: 480px;
+    top: -200px;
+}
+
+#views {
+    position: relative;
+    color: white;
+    top: -200px;
+    font-size: 12px;
+    opacity: 50%;
+}
+
+#thumbs-up {
+    position: relative;
+    width: 20px;
+    left: 620px;
+    bottom: 225px;
+}
+
+#num-Likes {
+    color: white;
+    font-size: 12px;
+    position: relative;
+    left: 650px;
+    top: -255px;
+}
+
+#thumbs-down {
+    position: relative;
+    width: 20px;
+    left: 700px;
+    top: -285px;
+}
+
+#num-Dislikes {
+    position: relative;
+    color: white;
+    font-size: 12px;
+    left: 730px;
+    top: -317px;
+}
+
+#share {
+    position: relative;
+    width: 30px;
+    left: 770px;
+    top: -350px;
+}
+
+#share-text {
+    color: white;
+    position: relative;
+    font-size: 12px;
+    left: 800px;
+    top: -385px;
+}
+
+#save {
+    position: relative;
+    width: 22px;
+    left: 860px;
+    top: -417px;
+}
+
+#save-text {
+    color: white;
+    position: relative;
+    left: 890px;
+    top: -455px;
+}
+
+#options {
+    position: relative;
+    width: 22px;
+    left: 950px;
+    top: -492px;
+}
+
+#line1 {
+    position: relative;
+    border-top: 1px solid rgb(78, 75, 75);
+    width: 1014px;
+    top: -450px;
+}
+
+#name {
+    color: white;
+    position: relative;
+    top: -440px;
+    left: 80px;
+    font-size: 14px;
+}
+
+#user-profile {
+    position: relative;
+    width: 60px;
+    top: -480px;
+}
+
+#subscribers {
+    color: white;
+    position: relative;
+    font-size: 11px;
+    opacity: 50%;
+    top: -520px;
+    left: 80px;
+}
+
+#description {
+    color: white;
+    position: relative;
+    font-size: 13px;
+    top: -500px;
+    left: 80px;
+}
+
+#join {
+    position: relative;
+    left: 780px;
+    top: -610px;
+    background-color: rgb(24, 22, 22);
+    border-color: #2196F3;
+    color: #2196F3;
+    padding: 6px 12px;
+    font-size: 14px;
+}
+
+#subscribed {
+    position: relative;
+    left: 790px;
+    top: -610px;
+    background-color: #423d3d;
+    border: none;
+    border-radius: 3px;
+    color: rgb(180, 175, 175);
+    padding: 8px 4px;
+    font-size: 14px;
+}
+
+#channel-notification {
+    position: relative;
+    width: 35px;
+    left: 800px;
+    top: -598px;
+}
+
+#show-more {
+    color: white;
+    position: relative;
+    top: -500px;
+    left: 80px;
+    font-size: 11px;
+    opacity: 65%;
+}
+
+#line2 {
+    position: relative;
+    border-top: 1px solid rgb(78, 75, 75);
+    width: 1014px;
+    top: -490px;
 }
