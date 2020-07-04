@@ -355,3 +355,139 @@ h5 {
     width: 1014px;
     top: -490px;
 }
+
+#num-of-comments {
+    color: white;
+    font-size: 14px;
+    position: relative;
+    left: 20px;
+    top: -480px;
+}
+
+#sort-by {
+    width: 25px;
+    position: relative;
+    left: 220px;
+    top: -515px;
+}
+
+#sort {
+    color: white;
+    font-size: 12px;
+    position: relative;
+    left: 260px;
+    top: -550px;
+    opacity: 50%;
+}
+
+#type-comment {
+    position: relative;
+    background-color: #423d3d;
+    border: none;
+    resize: none;
+    top: -560px;
+    left: 220px;
+}
+
+#my-profile {
+    width: 50px;
+    position: relative;
+    left: -760px;
+    top: -545px;
+}
+
+#user1-pic {
+    width: 50px;
+    position: relative;
+    left: -815px;
+    top: -430px;
+}
+
+#user-1 {
+    color: white;
+    position: relative;
+    top: -500px;
+    left: 218px;
+    opacity: 70%;
+}
+
+#user-1-time {
+    color: white;
+    font-size: 12px;
+    position: relative;
+    left: 300px;
+    top: -533px;
+    opacity: 50%;
+}
+
+#user1-comment {
+    color: white;
+    position: relative;
+    font-size: 14px;
+    top: -530px;
+    left: 217px;
+}
+
+#user2-pic {
+    width: 50px;
+    position: relative;
+    left: 38px;
+    top: -450px;
+}
+
+ #user-2 {
+    color: white;
+    position: relative;
+    top: -515px;
+    left: 218px;
+    opacity: 70%;
+}
+
+#user-2-time {
+    color: white;
+    font-size: 12px;
+    position: relative;
+    left: 300px;
+    top: -547px;
+    opacity: 50%;
+}
+
+#user2-comment {
+    color: white;
+    position: relative;
+    font-size: 14px;
+    top: -530px;
+    left: 217px;
+}
+
+#user3-pic {
+    width: 50px;
+    position: relative;
+    top: -460px;
+    left: 38px;
+}
+
+#user-3 {
+    color: white;
+    position: relative;
+    top: -520px;
+    left: 218px;
+    opacity: 70%;
+}
+
+#user-3-time {
+    color: white;
+    font-size: 12px;
+    position: relative;
+    left: 300px;
+    top: -552px;
+    opacity: 50%;
+}
+
+#user3-comment {
+    color: white;
+    position: relative;
+    font-size: 14px;
+    top: -530px;
+    left: 217px;
+} 
